@@ -1,1 +1,1 @@
-# AmazonClone
+# This is An Amazon Clone, only a visual Outlook And design of Amazon
